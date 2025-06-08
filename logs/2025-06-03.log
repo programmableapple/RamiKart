@@ -1,0 +1,1995 @@
+{
+  "timestamp": "2025-06-03 11:32:11",
+  "level": "info",
+  "message": "✅ Server running on port 5000"
+}
+{
+  "timestamp": "2025-06-03 11:32:11",
+  "level": "info",
+  "message": "✅ MongoDB Connected"
+}
+{
+  "timestamp": "2025-06-03 11:32:42",
+  "level": "info",
+  "message": "✅ Server running on port 5000"
+}
+{
+  "timestamp": "2025-06-03 11:32:42",
+  "level": "info",
+  "message": "✅ MongoDB Connected"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "║ Path: /api/auth/register                             ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:04",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:05",
+  "level": "info",
+  "message": "✅ New user registered: rabih.hassoun@hotmail.com with role: user"
+}
+{
+  "timestamp": "2025-06-03 11:34:05",
+  "level": "info",
+  "message": "║ Response: 201                                        ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:05",
+  "level": "info",
+  "message": "║ Message: Created                                     ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:05",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 11:34:05",
+  "level": "info",
+  "message": "⬅️  Response 201 (556ms)"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 11:34:06",
+  "level": "info",
+  "message": "⬅️  Response 304 (154ms)"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 11:34:19",
+  "level": "info",
+  "message": "⬅️  Response 304 (242ms)"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 11:34:24",
+  "level": "info",
+  "message": "⬅️  Response 304 (48ms)"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 11:34:36",
+  "level": "info",
+  "message": "⬅️  Response 304 (62ms)"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "║ Response: 403                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "║ Message: Forbidden                                   ║"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:12:56",
+  "level": "info",
+  "message": "⬅️  Response 403 (38ms)"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "║ Path: /api/auth/logout                               ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "error",
+  "message": "❌ Logout Error: jwt expired"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "║ Response: 500                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "║ Message: Internal Server Error                       ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:13:03",
+  "level": "info",
+  "message": "⬅️  Response 500 (51ms)"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:21",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:51",
+  "level": "error",
+  "message": "❌ Login Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017"
+}
+{
+  "timestamp": "2025-06-03 12:13:51",
+  "level": "info",
+  "message": "║ Response: 500                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:51",
+  "level": "info",
+  "message": "║ Message: Internal Server Error                       ║"
+}
+{
+  "timestamp": "2025-06-03 12:13:51",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:13:51",
+  "level": "info",
+  "message": "⬅️  Response 500 (30090ms)"
+}
+{
+  "timestamp": "2025-06-03 12:20:10",
+  "level": "info",
+  "message": "✅ Server running on port 5000"
+}
+{
+  "timestamp": "2025-06-03 12:20:10",
+  "level": "info",
+  "message": "✅ MongoDB Connected"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "warn",
+  "message": "⚠️ Login failed: No user found for rabih.hasoun@hotmail.com"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "║ Response: 400                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "║ Message: Bad Request                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:20:47",
+  "level": "info",
+  "message": "⬅️  Response 400 (272ms)"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:51",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:52",
+  "level": "info",
+  "message": "║ ✅ User rabih.hassoun@hotmail.com logged in successfully"
+}
+{
+  "timestamp": "2025-06-03 12:20:52",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:52",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:52",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:20:52",
+  "level": "info",
+  "message": "⬅️  Response 200 (292ms)"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:20:53",
+  "level": "info",
+  "message": "⬅️  Response 200 (69ms)"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:25:56",
+  "level": "info",
+  "message": "⬅️  Response 304 (51ms)"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:30:33",
+  "level": "info",
+  "message": "⬅️  Response 304 (35ms)"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:30:43",
+  "level": "info",
+  "message": "⬅️  Response 304 (36ms)"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:30:46",
+  "level": "info",
+  "message": "⬅️  Response 304 (56ms)"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ Path: /api/auth/logout                               ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ ✅ User Rabih logged out and session cleared"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:32:03",
+  "level": "info",
+  "message": "⬅️  Response 200 (33ms)"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "warn",
+  "message": "⚠️ Login failed: Incorrect password for rabih.hassoun@hotmail.com"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "║ Response: 400                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "║ Message: Bad Request                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:32:27",
+  "level": "info",
+  "message": "⬅️  Response 400 (202ms)"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "warn",
+  "message": "⚠️ Login failed: Incorrect password for rabih.hassoun@hotmail.com"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "║ Response: 400                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "║ Message: Bad Request                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:32:32",
+  "level": "info",
+  "message": "⬅️  Response 400 (182ms)"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ ✅ User rabih.hassoun@hotmail.com logged in successfully"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "⬅️  Response 200 (206ms)"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:32:36",
+  "level": "info",
+  "message": "⬅️  Response 304 (32ms)"
+}
+{
+  "timestamp": "2025-06-03 12:41:08",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:41:08",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 12:41:08",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 12:41:08",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 12:41:08",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 12:41:08",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:41:09",
+  "level": "info",
+  "message": "║ Path: /api/listings                                  ║"
+}
+{
+  "timestamp": "2025-06-03 12:41:09",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 12:41:09",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 12:41:09",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 12:41:09",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 12:41:09",
+  "level": "info",
+  "message": "⬅️  Response 200 (82ms)"
+}
+{
+  "timestamp": "2025-06-03 13:10:16",
+  "level": "info",
+  "message": "✅ Server running on port 5000"
+}
+{
+  "timestamp": "2025-06-03 13:10:16",
+  "level": "info",
+  "message": "✅ MongoDB Connected"
+}
+{
+  "timestamp": "2025-06-03 13:10:37",
+  "level": "info",
+  "message": "✅ Server running on port 5000"
+}
+{
+  "timestamp": "2025-06-03 13:10:37",
+  "level": "info",
+  "message": "✅ MongoDB Connected"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "║ Response: 403                                        ║"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "║ Message: Forbidden                                   ║"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 13:28:49",
+  "level": "info",
+  "message": "⬅️  Response 403 (41ms)"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "║ Response: 403                                        ║"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "║ Message: Forbidden                                   ║"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 13:29:05",
+  "level": "info",
+  "message": "⬅️  Response 403 (24ms)"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "║ Path: /api/auth/logout                               ║"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "error",
+  "message": "❌ Logout Error: jwt expired"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "║ Response: 500                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "║ Message: Internal Server Error                       ║"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:25:30",
+  "level": "info",
+  "message": "⬅️  Response 500 (24ms)"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:51",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:52",
+  "level": "warn",
+  "message": "⚠️ Login failed: Incorrect password for rabih.hassoun@hotmail.com"
+}
+{
+  "timestamp": "2025-06-03 14:33:52",
+  "level": "info",
+  "message": "║ Response: 400                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:52",
+  "level": "info",
+  "message": "║ Message: Bad Request                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:52",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:33:52",
+  "level": "info",
+  "message": "⬅️  Response 400 (372ms)"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ Method: POST                                         ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ Path: /api/auth/login                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ ✅ User rabih.hassoun@hotmail.com logged in successfully"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:33:56",
+  "level": "info",
+  "message": "⬅️  Response 200 (239ms)"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "║ Response: 200                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "║ Message: OK                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:33:57",
+  "level": "info",
+  "message": "⬅️  Response 200 (84ms)"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:34:17",
+  "level": "info",
+  "message": "⬅️  Response 304 (33ms)"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:34:28",
+  "level": "info",
+  "message": "⬅️  Response 304 (40ms)"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:34:30",
+  "level": "info",
+  "message": "⬅️  Response 304 (37ms)"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:34:32",
+  "level": "info",
+  "message": "⬅️  Response 304 (40ms)"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "🌐 Incoming request from origin: https://kzml8lrbsi6dtfc5fot5.lite.vusercontent.net"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "╔══════════════════════════════════════════════════════╗"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "║ NEW REQUEST INCOMING                                 ║"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "╠══════════════════════════════════════════════════════╣"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "║ Method: GET                                          ║"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "║ Path: /api/listings/mine                             ║"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "║ IP: ::1                                              ║"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "║ Response: 304                                        ║"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "║ Message: Not Modified                                ║"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "╚══════════════════════════════════════════════════════╝"
+}
+{
+  "timestamp": "2025-06-03 14:35:48",
+  "level": "info",
+  "message": "⬅️  Response 304 (55ms)"
+}
