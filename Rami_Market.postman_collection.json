@@ -1,0 +1,270 @@
+{
+	"info": {
+		"_postman_id": "cdd22d31-dec4-4ab7-b96c-18bb6d67136d",
+		"name": "Rami_Market",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28877310"
+	},
+	"item": [
+		{
+			"name": "AuthRoutes",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Rami Khayata\",\r\n    \"userName\": \"RAMIK\",\r\n    \"role\": \"user\",\r\n    \"email\": \"ramik@marketplace.com\",\r\n    \"password\" : \"Rami123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/auth/register",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "{{baseURL}}/api/auth/login",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Logout",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{accessToken}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseURL}}/api/auth/logout",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"api",
+								"auth",
+								"logout"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "ListingRoutes",
+			"item": [
+				{
+					"name": "createListing",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{accessToken}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "title",
+									"value": "Suzuki Bandit 1200cc ",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "Brand New Bike, Barely used. ODO 500km",
+									"type": "text"
+								},
+								{
+									"key": "price",
+									"value": "4000",
+									"type": "text"
+								},
+								{
+									"key": "stock",
+									"value": "1",
+									"type": "text"
+								},
+								{
+									"key": "category",
+									"value": "Motorcycles & ATV's",
+									"type": "text"
+								},
+								{
+									"key": "tags",
+									"value": "Motorcycle",
+									"type": "text"
+								},
+								{
+									"key": "tags",
+									"value": "Suzuki",
+									"type": "text"
+								},
+								{
+									"key": "images",
+									"type": "file",
+									"src": "/C:/Users/Admin/Pictures/Rami_MarketPlace/Suzuki_Bandit.jpg"
+								},
+								{
+									"key": "images",
+									"type": "file",
+									"src": "/C:/Users/Admin/Pictures/Rami_MarketPlace/Suzuki_Bandit_1.jpg"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{baseURL}}/api/listings/",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"api",
+								"listings",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateListing",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{accessToken}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"title\": \"Updated Suzuki Bandit 1200cc\"\r\n}\r\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{baseURL}}/api/listings/67fe33696e43ea177f193b51",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"api",
+								"listings",
+								"67fe33696e43ea177f193b51"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getAllListings",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseURL}}/api/listings/",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"api",
+								"listings",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getListingById",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{baseURL}}/api/listings/{{productID}}",
+							"host": [
+								"{{baseURL}}"
+							],
+							"path": [
+								"api",
+								"listings",
+								"{{productID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "submitReview",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
